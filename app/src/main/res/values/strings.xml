@@ -2,6 +2,8 @@
     <string name="app_name">라뷰</string>
     <string name="shop_name">라뷰 Shop</string>
     <string name="notice_name">라뷰 Notice</string>
+    <string name="makeroom_name">라뷰 미팅</string>
+    <string name="joinroom_name">라뷰 미팅</string>
     <string name="tab_text_1">소개팅</string>
     <string name="tab_text_2">미팅</string>
     <string name="tab_text_3">탐색</string>

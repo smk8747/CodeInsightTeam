@@ -22,11 +22,20 @@
         <activity
             android:name=".ShopActivity"
             android:label="@string/shop_name"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-
-        <activity android:name=".NoticeActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NoticeActivity"
             android:label="@string/notice_name"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MakeRoomActivity"
+            android:label="라뷰 - 미팅"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity android:name=".JoinRoomActivity"
+            android:label="라뷰 - 미팅"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
     </application>
 
 </manifest>
