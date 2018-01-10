@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/btn_gonotice"
+        android:title="goshop"
+        android:icon="@drawable/ic_actionbar_notice"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/btn_goshop"
+        android:title="goshop"
+        android:icon="@drawable/ic_actionbar_goshop"
+        app:showAsAction="always"/>
+
+
+
+</menu>

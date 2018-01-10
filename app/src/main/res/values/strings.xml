@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">라뷰</string>
+    <string name="shop_name">라뷰 Shop</string>
+    <string name="notice_name">라뷰 Notice</string>
+    <string name="tab_text_1">소개팅</string>
+    <string name="tab_text_2">미팅</string>
+    <string name="tab_text_3">탐색</string>
+    <string name="tab_text_4">현황</string>
+    <string name="tab_text_5">채팅</string>
+    <string name="subtab_text_1">데일리 소개팅</string>
+    <string name="subtab_text_2">이상형 소개팅</string>
+    <string name="subtab_text_3">테마 소개팅</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
