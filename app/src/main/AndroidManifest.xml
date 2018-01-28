@@ -46,9 +46,15 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".WelcomeActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".SignUpActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MyInfoActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProfileOneActivity"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
