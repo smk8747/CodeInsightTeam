@@ -7,8 +7,8 @@
     <string name="tab_text_1">소개팅</string>
     <string name="tab_text_2">미팅</string>
     <string name="tab_text_3">탐색</string>
-    <string name="tab_text_4">현황</string>
-    <string name="tab_text_5">채팅</string>
+    <string name="tab_text_4">채팅</string>
+    <string name="tab_text_5">정보</string>
     <string name="subtab_text_1">데일리 소개팅</string>
     <string name="subtab_text_2">이상형 소개팅</string>
     <string name="subtab_text_3">테마 소개팅</string>
